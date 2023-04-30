@@ -314,4 +314,3 @@ You have lived for 3153600000 seconds.
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 2](../02_Day_Variables_builtin_functions/02_variables_builtin_functions.md) | [Day 4 >>](../04_Day_Strings/04_strings.md)
